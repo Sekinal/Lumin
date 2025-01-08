@@ -8,7 +8,7 @@ client = OpenAI(
 )
 
 # Streamlit app title
-st.title("Simple Chatbot using OpenRouter API")
+st.title("Lumin Chat")
 
 # Initialize session state to store chat history
 if "messages" not in st.session_state:
