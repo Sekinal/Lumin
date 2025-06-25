@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # --- Título y Descripción de la Aplicación ---
-st.title("🤖 Chatbot Sencillo con Ventana de 'Pensamiento' en Tiempo Real")
+st.title("🤖 Lumin")
 st.markdown("""
 Este chatbot utiliza la API de OpenRouter para transmitir respuestas. Incluye una ventana de "Proceso de Pensamiento"
 que muestra los pasos de razonamiento interno del modelo en tiempo real, si el modelo los proporciona.
